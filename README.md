@@ -1,6 +1,4 @@
-Here’s a **professional README and a concise project description** for your license plate detection and traffic scene analysis project in English:
 
----
 
 ###  **README (Professional Version)**
 
